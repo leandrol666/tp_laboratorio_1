@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1491009010 source:/home/leandrol/Escritorio/tp_laboratorio_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491009201 /home/leandrol/Escritorio/tp_laboratorio_1/funciones.h
+
+1491009103 source:/home/leandrol/Escritorio/tp_laboratorio_1/pedirNumero.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490997801 source:/home/leandrol/Escritorio/tp_laboratorio_1/suma.c
+	"funciones.h"
+
+1490997746 source:/home/leandrol/Escritorio/tp_laboratorio_1/division.c
+	"funciones.h"
+
+1490997652 source:/home/leandrol/Escritorio/tp_laboratorio_1/factorial.c
+	"funciones.h"
+
+1490997768 source:/home/leandrol/Escritorio/tp_laboratorio_1/multiplicacion.c
+	"funciones.h"
+
+1490997790 source:/home/leandrol/Escritorio/tp_laboratorio_1/resta.c
+	"funciones.h"
+
+1491004885 source:/home/leandrol/Escritorio/tp_laboratorio_1/validarCero.c
+	"funciones.h"
+
+1491004900 source:/home/leandrol/Escritorio/tp_laboratorio_1/validarEntero.c
+	"funciones.h"
+
+1491004872 source:/home/leandrol/Escritorio/tp_laboratorio_1/validar.c
+	"funciones.h"
+
+1491009249 source:/home/leandrol/Escritorio/tp_laboratorio_1/mostrar.c
+	"funciones.h"
+
