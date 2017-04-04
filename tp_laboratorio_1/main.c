@@ -127,7 +127,6 @@ int main()
                 if(numero2 == 0)
                 {
                     printf("ERROR: La division por 0 no es posible \n");
-                    break;
                 }
                 else
                 {
